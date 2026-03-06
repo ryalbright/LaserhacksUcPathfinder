@@ -3,3 +3,5 @@ UC Pathfinder is a website that helps new students find the best UC to transfer 
 
 Ryan Albright - Handled Backend, GPA, data_processing.py, and salary processing.
 Ryan Duncan - Handled Club Matching, ClubData.csv, and Frontend
+
+To run, run backend.py
